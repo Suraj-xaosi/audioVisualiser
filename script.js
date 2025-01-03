@@ -49,7 +49,7 @@ function visualize(audioBuffer, audioContext){
     canvasContext.clearRect(0, 0, canvas.width, canvas.height); // Clear canvas
     canvasContext.fillStyle = "blue"
     canvasContext.fillRect(0, 0, canvas.width, canvas.height)
-    //canvasContext.fillText('Hello, Canvas!', canvas.width / 2, canvas.height / 2);
+    
 
 
 
